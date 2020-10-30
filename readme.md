@@ -5,6 +5,6 @@
 ```java
     public static void main(String[] args) {
         WindowsSpeak speak = new WindowsSpeak();
-        speak.speak("我操你妈！什么卵东西啊");
+        speak.speak("Hello, Miss beauty");
     }
     ```
